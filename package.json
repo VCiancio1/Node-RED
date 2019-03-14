@@ -2,7 +2,14 @@
     "name": "TEST_GIT",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-iiot-opcua": "3.8.0",
+        "node-red-contrib-influxdb": "0.2.2",
+        "node-red-contrib-nbrowser": "1.1.4",
+        "node-red-contrib-s7": "1.5.4",
+        "node-red-dashboard": "2.14.0",
+        "node-red-node-serialport": "0.7.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_LTCC2448.json",
