@@ -7,7 +7,7 @@
         "node-red-contrib-influxdb": "0.2.2",
         "node-red-contrib-nbrowser": "1.1.4",
         "node-red-contrib-s7": "1.5.4",
-        "node-red-dashboard": "2.14.0",
+        "node-red-dashboard": "2.17.1",
         "node-red-node-serialport": "0.7.1"
     },
     "node-red": {
